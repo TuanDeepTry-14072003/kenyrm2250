@@ -52,11 +52,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="TuanDz">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanDeepTry-14072003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="MrQ">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQ-14072003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="TuanDz">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TuanDeepTry-14072003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=MrQ-14072003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -65,8 +65,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/TuanDzs" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="TuanDz-blog" />
+  <a href="https://facebook.com/WUSTRANQUANG" target="blank">
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="MrQ-blog" />
   </a>
   <a href="https://facebook.com/TuanDzs" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TuanDz-facebook" />
@@ -103,7 +103,7 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:kenyrm2250@gmail.com" target="_top">kenyrm2250@gmail.com</a></strong>
 </p>
-<a href="https://www.facebook.com/TuannDzz123" target="_blank">
+<a href="https://www.facebook.com/MrQ" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="TuanDz-official" />
 </a>
 
